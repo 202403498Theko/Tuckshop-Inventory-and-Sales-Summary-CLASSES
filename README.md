@@ -1,4 +1,4 @@
-# Tuckshop-Inventory-and-Sales-Summary-CLASSES
+# Tuckshop-Inventory-and-Sales-Summary
 Tuckshop-Project Description 
 This project will develop a Java-based system to manage tuckshop inventory, process sales, update stock levels automatically, and generate sales summaries. Objectives: To store products and prices. To record customer purchases. To update stock automatically after sales. To generate a summary of daily sales.
 Tuckshop Inventory and Sales System

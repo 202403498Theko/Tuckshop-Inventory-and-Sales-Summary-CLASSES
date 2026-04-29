@@ -1,0 +1,52 @@
+Tuckshop System – Contribution Log
+
+Group Members (6):
+1. Shirley Yoba(202502352)
+2.Sharon Mankaka(202304465)
+3.Boago Molelowakgotla(202002492)
+4.Theko Gabotlhaloswe(202403498)
+5.Prince Ketsano (202300493)
+
+Boago Molelowakgotla(202002492) – Main Application (MainApp)
+- Developed the main class and program entry point  
+- Implemented menu system and user input handling  
+- Integrated all services together  
+
+Prince Ketsano (202300493)– Product Class
+- Designed and implemented the Product class  
+- Added attributes (id, name, price, quantity)  
+- Implemented stock management methods (addStock, reduceStock)  
+
+
+Sharon Mankaka(202304465)– InventoryService
+- Implemented product storage using ArrayList<Product>  
+- Developed methods for adding, viewing, and searching products  
+- Implemented restocking functionality  
+
+
+
+ Prince Ketsano (202300493)– Sale Class
+- Designed and implemented the Sale class  
+- Added logic for calculating total price  
+- Implemented display of sale details  
+
+
+
+Shirley Yoba(202502352) – SalesServices
+- Implemented sales processing logic  
+- Managed list of sales using ArrayList<Sale>  
+- Developed methods for making sales and viewing total revenue  
+
+---
+
+ 
+ Theko Gabotlhaloswe(202403498) and Shirley Yoba(202502352) – ReportService & Interface
+- Created Report interface  
+- Implemented ReportService class  
+- Developed functionality to generate and display sales reports  
+
+---
+
+Overall Contribution:
+- All members participated in testing, debugging, and refining the system  
+- The group collaborated on design decisions and UML diagram and finally we uploaded our java programs on git and University of Botswana moodle on the 29 of April 2026.
